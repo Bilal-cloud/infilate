@@ -1,0 +1,43 @@
+#priceexception{
+
+    padding-right: 310px;
+
+
+}
+
+.btttn{
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+        width:150px;
+        height: 40px;  
+}
+
+.viewmore{
+    background-color: black; 
+    color: white; 
+    border:none;
+    margin-left: 50px;
+}
+
+.viewmore:focus{
+    outline:none;
+}
+
+.viewmore:hover{
+    background-color: black;
+    color: white;
+    border:none;
+    outline:none;
+}
